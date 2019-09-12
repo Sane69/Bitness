@@ -1,0 +1,132 @@
+@media screen and (max-width: 1200px) {
+  .info__more p {
+    width: 100%;
+  }
+  .info__more--first {
+    padding: 0 20px 0 20px;
+  }
+  .info__more--second {
+    padding: 0 20px 0 20px;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .header__menu--nav {
+    display: none;
+  }
+  .header__menu--reg {
+    display: none;
+  }
+  #hamburger {
+    display: block;
+  }
+}
+@media screen and (max-width: 1080px) {
+  .info {
+    height: 2500px;
+  }
+  .info__text p {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .header {
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 1060px) {
+  .info__container--title {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .info__container--title {
+    height: 200px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .info__more--first,
+  .info__more--second {
+    display: block;
+  }
+  .info__more--block2,
+  .info__more--block4 {
+    padding-left: 0;
+  }
+}
+@media screen and (max-width: 737px) {
+  .info {
+    height: 2700px;
+  }
+  .info__text--second::after {
+    top: 310px;
+  }
+}
+@media screen and (max-width: 700px) {
+  .header__info p {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 640px) {
+  .header {
+    background-position: right;
+  }
+}
+@media screen and (max-width: 604px) {
+  .info__text--second::after {
+    top: 340px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .header {
+    height: 1470px;
+  }
+}
+@media screen and (max-width: 560px) {
+  .info {
+    height: 3350px;
+  }
+  .info__btn {
+    text-align: center;
+  }
+  .info__btn button {
+    width: 270px;
+  }
+}
+@media screen and (max-width: 550px) {
+  .info__video--play {
+    left: 35%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .info__container--title span {
+    font-size: 26px;
+  }
+}
+@media screen and (max-width: 441px) {
+  .info__text--first {
+    font-size: 30px;
+    line-height: 51.95px;
+  }
+  .info__text--second {
+    font-size: 14px;
+  }
+  .info__text--second::after {
+    top: 270px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .header__info--btn button {
+    width: 250px;
+  }
+  .header__info--btn img {
+    left: 213px;
+  }
+  .header__menu--regMobile {
+    margin: 0;
+  }
+}
+@media screen and (max-width: 373px) {
+  .info__text--second::after {
+    top: 290px;
+  }
+}
